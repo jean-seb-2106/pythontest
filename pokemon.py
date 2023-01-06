@@ -4,6 +4,10 @@ class pokemon:
         self.vie = vie
         self.degats = degats
         self.niveau = niveau
+    
+    def statut(self):
+        print(self.nom + " ", str(self.vie) + " " + str(self.degats) + " " + str(self.niveau) )
 
-a = pokemon("pikachu",50,80,2) #création d'une instance
-print(a.nom) #affichage de l'attribut
+    def attaque(self,perso):
+        perso.vie = perso.vie - self.degats
+
