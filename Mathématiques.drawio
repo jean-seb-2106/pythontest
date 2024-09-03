@@ -114,46 +114,37 @@
           <mxGeometry y="66" width="110" height="54" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-44" value="2 - Calcul de probabilités" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="600" y="520" width="130" height="128" as="geometry">
+          <mxGeometry x="600" y="520" width="130" height="102" as="geometry">
             <mxRectangle y="870" width="260" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-45" value="scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-44" vertex="1">
           <mxGeometry y="50" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-46" value="quiz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-44" vertex="1">
+        <mxCell id="oGcL695DofoNEhs4g2Zo-46" value="quiz (à faire)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-44" vertex="1">
           <mxGeometry y="76" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-47" value="fiche" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-44" vertex="1">
-          <mxGeometry y="102" width="130" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-48" value="4 - Lois discrètes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="370" y="830" width="130" height="128" as="geometry">
+          <mxGeometry x="370" y="830" width="130" height="102" as="geometry">
             <mxRectangle x="270" y="870" width="260" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-49" value="scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-48" vertex="1">
           <mxGeometry y="50" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-50" value="quiz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-48" vertex="1">
+        <mxCell id="oGcL695DofoNEhs4g2Zo-50" value="quiz (à faire)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-48" vertex="1">
           <mxGeometry y="76" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-51" value="fiche" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-48" vertex="1">
-          <mxGeometry y="102" width="130" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-52" value="3 - Variables aléatoires discontinues" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="600" y="830" width="130" height="128" as="geometry">
+          <mxGeometry x="600" y="830" width="130" height="102" as="geometry">
             <mxRectangle x="537" y="870" width="290" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-53" value="Scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-52" vertex="1">
           <mxGeometry y="50" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-54" value="quiz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-52" vertex="1">
+        <mxCell id="oGcL695DofoNEhs4g2Zo-54" value="quiz (à faire)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-52" vertex="1">
           <mxGeometry y="76" width="130" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-55" value="fiche" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-52" vertex="1">
-          <mxGeometry y="102" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-56" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" parent="1" source="oGcL695DofoNEhs4g2Zo-15" target="oGcL695DofoNEhs4g2Zo-44" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -192,32 +183,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rO34W1WTMn1TqOfz_Ldu-7" value="1 - Dénombrement" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="130" height="128" as="geometry">
+          <mxGeometry x="360" y="520" width="130" height="102" as="geometry">
             <mxRectangle y="870" width="260" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rO34W1WTMn1TqOfz_Ldu-8" value="scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rO34W1WTMn1TqOfz_Ldu-7">
           <mxGeometry y="50" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rO34W1WTMn1TqOfz_Ldu-9" value="quiz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rO34W1WTMn1TqOfz_Ldu-7">
+        <mxCell id="rO34W1WTMn1TqOfz_Ldu-9" value="quiz (à faire)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rO34W1WTMn1TqOfz_Ldu-7">
           <mxGeometry y="76" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rO34W1WTMn1TqOfz_Ldu-10" value="fiche" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rO34W1WTMn1TqOfz_Ldu-7">
-          <mxGeometry y="102" width="130" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="rO34W1WTMn1TqOfz_Ldu-11" value="5 - Loi normale" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="190" y="681" width="130" height="128" as="geometry">
+          <mxGeometry x="190" y="681" width="130" height="102" as="geometry">
             <mxRectangle y="870" width="260" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rO34W1WTMn1TqOfz_Ldu-12" value="scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rO34W1WTMn1TqOfz_Ldu-11">
           <mxGeometry y="50" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="rO34W1WTMn1TqOfz_Ldu-13" value="quiz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rO34W1WTMn1TqOfz_Ldu-11">
+        <mxCell id="rO34W1WTMn1TqOfz_Ldu-13" value="quiz (à faire)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rO34W1WTMn1TqOfz_Ldu-11">
           <mxGeometry y="76" width="130" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="rO34W1WTMn1TqOfz_Ldu-14" value="fiche" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="rO34W1WTMn1TqOfz_Ldu-11">
-          <mxGeometry y="102" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="rO34W1WTMn1TqOfz_Ldu-15" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" edge="1" parent="1" source="rO34W1WTMn1TqOfz_Ldu-11" target="oGcL695DofoNEhs4g2Zo-15">
           <mxGeometry width="160" relative="1" as="geometry">
