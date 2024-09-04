@@ -64,7 +64,7 @@
           <mxGeometry y="102" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-19" value="Produire des graphiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="770" y="40" width="230" height="40" as="geometry">
+          <mxGeometry x="770" y="30" width="230" height="40" as="geometry">
             <mxRectangle x="570" y="240" width="140" height="118" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -192,7 +192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-59" value="Diagramme en barre" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="710" y="150" width="110" height="40" as="geometry">
+          <mxGeometry x="710" y="190" width="110" height="40" as="geometry">
             <mxRectangle x="720" y="140" width="110" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -200,7 +200,7 @@
           <mxGeometry y="40" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-63" value="Diagramme en secteur" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="840" y="150" width="110" height="40" as="geometry">
+          <mxGeometry x="840" y="190" width="110" height="40" as="geometry">
             <mxRectangle x="850" y="140" width="110" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -208,7 +208,7 @@
           <mxGeometry y="40" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-67" value="Courbe" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="970" y="150" width="100" height="40" as="geometry">
+          <mxGeometry x="970" y="190" width="100" height="40" as="geometry">
             <mxRectangle x="990" y="140" width="110" height="118" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
