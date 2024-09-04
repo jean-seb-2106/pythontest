@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-15" value="Décrire et mesurer les liens entre deux variables" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="250" y="670" width="310" height="50" as="geometry">
+          <mxGeometry x="240" y="560" width="310" height="50" as="geometry">
             <mxRectangle x="350" y="670" width="140" height="128" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -107,34 +107,29 @@
             <mxPoint x="250" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-32" value="Maîtriser l&#39;linterface, gérer les classeurs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="10" y="400" width="110" height="170" as="geometry">
-            <mxRectangle x="10" y="400" width="210" height="40" as="alternateBounds" />
+        <mxCell id="oGcL695DofoNEhs4g2Zo-32" value="Maîtriser l&#39;linterface, gérer les classeurs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="10" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="10" y="400" width="110" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-33" value="- Lecture de tableaux" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-32" vertex="1">
-          <mxGeometry y="50" width="110" height="120" as="geometry" />
+        <mxCell id="oGcL695DofoNEhs4g2Zo-33" value="&lt;div&gt;- Vidéo&lt;/div&gt;&lt;div&gt;- Fichiers&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-32" vertex="1">
+          <mxGeometry y="60" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-36" value="Statistique descriptive univariée" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="260" y="400" width="130" height="180" as="geometry" />
+        <mxCell id="oGcL695DofoNEhs4g2Zo-36" value="Saisir, modifier, insérer et supprimer des données" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="260" y="400" width="120" height="60" as="geometry">
+            <mxRectangle x="260" y="400" width="130" height="110" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-37" value="- Vocabulaire stat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-36" vertex="1">
-          <mxGeometry y="40" width="130" height="26" as="geometry" />
+        <mxCell id="oGcL695DofoNEhs4g2Zo-38" value="&lt;div&gt;- Vidéo&lt;/div&gt;&lt;div&gt;- Fichiers&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-36" vertex="1">
+          <mxGeometry y="60" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-38" value="- Indicateurs tendance centrale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-36" vertex="1">
-          <mxGeometry y="66" width="130" height="34" as="geometry" />
+        <mxCell id="oGcL695DofoNEhs4g2Zo-40" value="Gérer, créer et modifier les feuilles" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="130" y="400" width="110" height="60" as="geometry">
+            <mxRectangle x="140" y="400" width="110" height="110" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-39" value="&lt;div&gt;- Indicateurs de dispersion&lt;/div&gt;&lt;div&gt;- Indicateurs de concentration&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-36" vertex="1">
-          <mxGeometry y="100" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-40" value="Les indices" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="140" y="400" width="110" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-41" value="- indices simples" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-40" vertex="1">
-          <mxGeometry y="40" width="110" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-42" value="- indices synthétiques" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-40" vertex="1">
-          <mxGeometry y="66" width="110" height="94" as="geometry" />
+        <mxCell id="oGcL695DofoNEhs4g2Zo-41" value="&lt;div&gt;- Vidéo&lt;/div&gt;&lt;div&gt;- Fichiers&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-40" vertex="1">
+          <mxGeometry y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-44" value="Liens entre deux variables quantitatives" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="150" y="870" width="130" height="128" as="geometry">
