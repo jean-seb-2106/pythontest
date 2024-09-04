@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oGcL695DofoNEhs4g2Zo-1" value="Statistiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="oGcL695DofoNEhs4g2Zo-1" value="Calc" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="350" y="120" width="110" height="30" as="geometry">
             <mxRectangle x="350" y="120" width="140" height="78" as="alternateBounds" />
           </mxGeometry>
@@ -21,7 +21,7 @@
             <mxPoint x="414" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-6" value="Mathématiques et Statistiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="oGcL695DofoNEhs4g2Zo-6" value="Informatique" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="300" y="10" width="210" height="30" as="geometry">
             <mxRectangle x="320" y="10" width="200" height="52" as="alternateBounds" />
           </mxGeometry>
