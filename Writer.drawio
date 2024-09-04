@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oGcL695DofoNEhs4g2Zo-1" value="Writer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="350" y="120" width="110" height="30" as="geometry">
+          <mxGeometry x="340" y="400" width="110" height="30" as="geometry">
             <mxRectangle x="350" y="120" width="140" height="78" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -29,8 +29,8 @@
         <mxCell id="oGcL695DofoNEhs4g2Zo-7" value="+ description: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-6" vertex="1">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-10" value="Publiposter avec Writer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="70" y="220" width="170" height="40" as="geometry">
+        <mxCell id="oGcL695DofoNEhs4g2Zo-10" value="Publiposter des documents et des étiquettes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="60" y="210" width="170" height="60" as="geometry">
             <mxRectangle x="125" y="240" width="140" height="118" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-15" value="Mettre en forme un document avec les styles" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="60" y="410" width="310" height="50" as="geometry">
+          <mxGeometry x="20" y="585" width="310" height="50" as="geometry">
             <mxRectangle x="350" y="670" width="140" height="128" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -84,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M4qhGssCVsZmkV2U08UX-1" value="Insérer des images et des graphiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="450" y="410" width="310" height="50" as="geometry">
+          <mxGeometry x="500" y="585" width="310" height="50" as="geometry">
             <mxRectangle x="350" y="670" width="140" height="128" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
