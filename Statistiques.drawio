@@ -30,7 +30,7 @@
           <mxGeometry y="26" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-10" value="Découvrir la statistique desriptive" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="90" y="360" width="170" height="40" as="geometry">
+          <mxGeometry x="80" y="300" width="170" height="40" as="geometry">
             <mxRectangle x="125" y="240" width="140" height="118" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -108,15 +108,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-32" value="Lecture de tableaux statistiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="110" height="160" as="geometry">
+          <mxGeometry x="30" y="80" width="110" height="140" as="geometry">
             <mxRectangle x="10" y="400" width="210" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-33" value="- Lecture de tableaux" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-32" vertex="1">
-          <mxGeometry y="40" width="110" height="120" as="geometry" />
+        <mxCell id="oGcL695DofoNEhs4g2Zo-33" value="- Scorm : Lecture de tableaux" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-32" vertex="1">
+          <mxGeometry y="40" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-36" value="Vocabulaire statistique et tris à plat" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="200" y="120" width="130" height="140" as="geometry" />
+          <mxGeometry x="190" y="80" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-37" value="&lt;div&gt;- Scorm : Vocabulaire stat et tris à plat&lt;/div&gt;&lt;div&gt;- Fiche sur le vocabulaire&lt;/div&gt;&lt;div&gt;- Fiche sur le tri à plat&lt;/div&gt;&lt;div&gt;- Quiz&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-36" vertex="1">
           <mxGeometry y="40" width="130" height="100" as="geometry" />
