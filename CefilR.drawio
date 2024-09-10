@@ -107,7 +107,7 @@
           <mxGeometry y="40" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7whgVW71UNMLmRwCJa-j-1" value="4 - Les data-frames" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="10" y="289" width="110" height="40" as="geometry">
+          <mxGeometry x="80" y="219" width="110" height="40" as="geometry">
             <mxRectangle x="270" y="350" width="130" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
