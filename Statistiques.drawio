@@ -30,7 +30,7 @@
           <mxGeometry y="26" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-10" value="Découvrir la statistique desriptive" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="110" y="350" width="170" height="40" as="geometry">
+          <mxGeometry x="90" y="360" width="170" height="40" as="geometry">
             <mxRectangle x="125" y="240" width="140" height="118" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -116,19 +116,13 @@
           <mxGeometry y="40" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-36" value="Vocabulaire statistique et tris à plat" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="220" y="120" width="130" height="180" as="geometry" />
+          <mxGeometry x="200" y="120" width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-37" value="- Vocabulaire stat et tris à plat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-36" vertex="1">
-          <mxGeometry y="40" width="130" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-38" value="- Indicateurs tendance centrale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-36" vertex="1">
-          <mxGeometry y="66" width="130" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-39" value="&lt;div&gt;- Indicateurs de dispersion&lt;/div&gt;&lt;div&gt;- Indicateurs de concentration&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-36" vertex="1">
-          <mxGeometry y="100" width="130" height="80" as="geometry" />
+        <mxCell id="oGcL695DofoNEhs4g2Zo-37" value="&lt;div&gt;- Scorm : Vocabulaire stat et tris à plat&lt;/div&gt;&lt;div&gt;- Fiche sur le vocabulaire&lt;/div&gt;&lt;div&gt;- Fiche sur le tri à plat&lt;/div&gt;&lt;div&gt;- Quiz&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-36" vertex="1">
+          <mxGeometry y="40" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-40" value="Les indices" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="30" y="460" width="110" height="160" as="geometry" />
+          <mxGeometry x="430" y="450" width="110" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-41" value="- indices simples" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-40" vertex="1">
           <mxGeometry y="40" width="110" height="26" as="geometry" />
@@ -251,7 +245,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-1" value="Décrire une distribution statistique" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="150" y="660" width="170" height="40" as="geometry">
+          <mxGeometry x="134" y="560" width="170" height="40" as="geometry">
             <mxRectangle x="125" y="240" width="140" height="118" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -265,31 +259,49 @@
           <mxGeometry y="92" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-5" value="Les indicateurs de tendance centrale" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="40" y="740" width="110" height="170" as="geometry" />
+          <mxGeometry x="40" y="690" width="110" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-6" value="- Scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-5">
           <mxGeometry y="50" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-7" value="- indices synthétiques" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-5">
+        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-7" value="&lt;div&gt;- Quiz&lt;/div&gt;&lt;div&gt;- Fiche&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-5">
           <mxGeometry y="76" width="110" height="94" as="geometry" />
         </mxCell>
         <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-9" value="Les indicateurs de dispersion" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="170" y="740" width="110" height="170" as="geometry" />
+          <mxGeometry x="170" y="690" width="110" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-10" value="- indices simples" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-9">
+        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-10" value="- Scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-9">
           <mxGeometry y="50" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-11" value="- indices synthétiques" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-9">
+        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-11" value="&lt;div&gt;- Quiz- Fiche&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-9">
           <mxGeometry y="76" width="110" height="94" as="geometry" />
         </mxCell>
         <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-12" value="Les indicateurs de concentration" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="304" y="740" width="110" height="170" as="geometry" />
+          <mxGeometry x="304" y="690" width="110" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-13" value="- indices simples" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-12">
+        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-13" value="- Scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-12">
           <mxGeometry y="50" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-14" value="- indices synthétiques" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-12">
+        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-14" value="&lt;div&gt;- Quiz&lt;/div&gt;&lt;div&gt;- Fiche&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ZfIeXTQfh-ok3UEB9EQ4-12">
           <mxGeometry y="76" width="110" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-15" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" edge="1" parent="1" source="ZfIeXTQfh-ok3UEB9EQ4-5" target="ZfIeXTQfh-ok3UEB9EQ4-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="95" y="625" as="sourcePoint" />
+            <mxPoint x="60" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-16" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" edge="1" parent="1" source="ZfIeXTQfh-ok3UEB9EQ4-9" target="ZfIeXTQfh-ok3UEB9EQ4-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="716" as="sourcePoint" />
+            <mxPoint x="213" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfIeXTQfh-ok3UEB9EQ4-17" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" edge="1" parent="1" source="ZfIeXTQfh-ok3UEB9EQ4-12" target="ZfIeXTQfh-ok3UEB9EQ4-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="232" y="700" as="sourcePoint" />
+            <mxPoint x="230" y="650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
