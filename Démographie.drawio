@@ -19,7 +19,7 @@
           <mxGeometry y="26" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oGcL695DofoNEhs4g2Zo-15" value="Créer rapidement un diaporama avec Impress" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="240" y="280" width="310" height="50" as="geometry">
+          <mxGeometry x="50" y="270" width="310" height="50" as="geometry">
             <mxRectangle x="350" y="670" width="140" height="128" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -50,7 +50,7 @@
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="M_tgrwhZa5VNIvvHF0bR-17" value="Générer une présentation à partir d&#39;un document Writer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="520" y="460" width="160" height="74" as="geometry" />
+          <mxGeometry x="190" y="420" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="M_tgrwhZa5VNIvvHF0bR-18" value="1 didacticiel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="M_tgrwhZa5VNIvvHF0bR-17" vertex="1">
           <mxGeometry y="40" width="160" height="26" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry y="66" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="M_tgrwhZa5VNIvvHF0bR-32" value="Utiliser les modèles de l&#39;Insee" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="140" y="460" width="160" height="74" as="geometry" />
+          <mxGeometry y="420" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="M_tgrwhZa5VNIvvHF0bR-33" value="1 didacticiel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="M_tgrwhZa5VNIvvHF0bR-32" vertex="1">
           <mxGeometry y="40" width="160" height="26" as="geometry" />
