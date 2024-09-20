@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XIa25rhxZK5pwJHPzmyz-10" value="Les migrations de population" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="430" y="360" width="130" height="74" as="geometry" />
+          <mxGeometry x="450" y="360" width="130" height="74" as="geometry" />
         </mxCell>
         <mxCell id="XIa25rhxZK5pwJHPzmyz-11" value="1 scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="XIa25rhxZK5pwJHPzmyz-10">
           <mxGeometry y="40" width="130" height="26" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry y="66" width="130" height="8" as="geometry" />
         </mxCell>
         <mxCell id="XIa25rhxZK5pwJHPzmyz-13" value="Les projections" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="130" height="74" as="geometry" />
+          <mxGeometry x="610" y="360" width="130" height="74" as="geometry" />
         </mxCell>
         <mxCell id="XIa25rhxZK5pwJHPzmyz-14" value="1 scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="XIa25rhxZK5pwJHPzmyz-13">
           <mxGeometry y="40" width="130" height="26" as="geometry" />
