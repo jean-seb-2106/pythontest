@@ -94,7 +94,7 @@
             <mxPoint x="277" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XIa25rhxZK5pwJHPzmyz-5" value="Comprendre et anticiper les phénomènes démographiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-5" value="Aller plus loin dans la compréhension des phénomènes démographiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="440" y="220" width="310" height="50" as="geometry">
             <mxRectangle x="350" y="670" width="140" height="128" as="alternateBounds" />
           </mxGeometry>
