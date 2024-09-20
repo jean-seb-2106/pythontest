@@ -94,6 +94,56 @@
             <mxPoint x="277" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-5" value="Comprendre et anticiper les phénomènes démographiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="440" y="220" width="310" height="50" as="geometry">
+            <mxRectangle x="350" y="670" width="140" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-6" value="+ niveau : 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="XIa25rhxZK5pwJHPzmyz-5">
+          <mxGeometry y="50" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-7" value="+ objectifs: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="XIa25rhxZK5pwJHPzmyz-5">
+          <mxGeometry y="76" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-8" value="+ durée: 3-4 heures" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="XIa25rhxZK5pwJHPzmyz-5">
+          <mxGeometry y="102" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-9" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" edge="1" parent="1" source="z3eBNMHmMiNgrTxSZCe1-1" target="XIa25rhxZK5pwJHPzmyz-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="381" y="170" as="sourcePoint" />
+            <mxPoint x="285" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-10" value="Les migrations de population" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="130" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-11" value="1 scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="XIa25rhxZK5pwJHPzmyz-10">
+          <mxGeometry y="40" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="XIa25rhxZK5pwJHPzmyz-10">
+          <mxGeometry y="66" width="130" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-13" value="Les projections" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="630" y="370" width="100" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-14" value="1 scorm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="XIa25rhxZK5pwJHPzmyz-13">
+          <mxGeometry y="40" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="XIa25rhxZK5pwJHPzmyz-13">
+          <mxGeometry y="66" width="100" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-16" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" edge="1" parent="1" source="XIa25rhxZK5pwJHPzmyz-5" target="XIa25rhxZK5pwJHPzmyz-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="220" y="280" as="sourcePoint" />
+            <mxPoint x="118" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIa25rhxZK5pwJHPzmyz-17" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" edge="1" parent="1" source="XIa25rhxZK5pwJHPzmyz-5" target="XIa25rhxZK5pwJHPzmyz-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="258" y="280" as="sourcePoint" />
+            <mxPoint x="311" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
