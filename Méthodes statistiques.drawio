@@ -88,13 +88,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t3XVpiBwM0hyzEMl5jXf-9" value="Découverte de la statistique descriptive" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="40" y="260" width="120" height="48" as="geometry" />
+          <mxGeometry x="40" y="260" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="t3XVpiBwM0hyzEMl5jXf-10" value="&lt;div&gt;1 didacti&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="t3XVpiBwM0hyzEMl5jXf-9" vertex="1">
-          <mxGeometry y="40" width="120" as="geometry" />
+          <mxGeometry y="40" width="140" as="geometry" />
         </mxCell>
         <mxCell id="t3XVpiBwM0hyzEMl5jXf-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="t3XVpiBwM0hyzEMl5jXf-9" vertex="1">
-          <mxGeometry y="40" width="120" height="8" as="geometry" />
+          <mxGeometry y="40" width="140" height="8" as="geometry" />
         </mxCell>
         <mxCell id="t3XVpiBwM0hyzEMl5jXf-16" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" parent="1" source="oGcL695DofoNEhs4g2Zo-15" target="t3XVpiBwM0hyzEMl5jXf-12" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
