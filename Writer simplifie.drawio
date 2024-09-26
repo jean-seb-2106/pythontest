@@ -23,8 +23,8 @@
         <mxCell id="oGcL695DofoNEhs4g2Zo-7" value="+ description: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-6" vertex="1">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oGcL695DofoNEhs4g2Zo-10" value="Mettre en forme et structurer un document avec Writer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="220" y="230" width="170" height="40" as="geometry">
+        <mxCell id="oGcL695DofoNEhs4g2Zo-10" value="Mettre en forme et structurer un document avec Writer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="220" y="230" width="180" height="50" as="geometry">
             <mxRectangle x="125" y="240" width="140" height="118" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -46,8 +46,8 @@
             <mxPoint x="200" y="238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R7VQAPE6wTlqesCjZck-27" value="Faire du publipostage avec Writer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="490" y="230" width="170" height="40" as="geometry">
+        <mxCell id="1R7VQAPE6wTlqesCjZck-27" value="Faire du publipostage avec Writer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="490" y="230" width="170" height="50" as="geometry">
             <mxRectangle x="125" y="240" width="140" height="118" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
