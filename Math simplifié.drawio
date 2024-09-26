@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.16">
+  <diagram name="Page-1" id="TVbX9KgjACldvgUGH_jM">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oGcL695DofoNEhs4g2Zo-1" value="Mathématiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="359" y="110" width="110" height="30" as="geometry">
+            <mxRectangle x="350" y="120" width="140" height="78" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-2" value="+ description: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-1" vertex="1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-3" value="+ contenu: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-1" vertex="1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-5" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" parent="1" source="oGcL695DofoNEhs4g2Zo-6" target="oGcL695DofoNEhs4g2Zo-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="130" as="sourcePoint" />
+            <mxPoint x="414" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-6" value="Mathématiques et Statistiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="309" y="30" width="210" height="30" as="geometry">
+            <mxRectangle x="320" y="10" width="200" height="52" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-7" value="+ description: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-6" vertex="1">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-10" value="&amp;nbsp;Revoir les fondamentaux en mathématiques" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="200" y="240" width="180" height="50" as="geometry">
+            <mxRectangle x="200" y="240" width="140" height="92" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-11" value="+ niveau : 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-10" vertex="1">
+          <mxGeometry y="40" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-13" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-10" vertex="1">
+          <mxGeometry y="66" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-14" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" parent="1" source="oGcL695DofoNEhs4g2Zo-1" target="oGcL695DofoNEhs4g2Zo-10" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="200" y="190" as="sourcePoint" />
+            <mxPoint x="200" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-15" value="Dénombrer et calculer des probabilités" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="414" y="240" width="200" height="50" as="geometry">
+            <mxRectangle x="350" y="670" width="140" height="128" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-16" value="+ niveau : 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-15" vertex="1">
+          <mxGeometry y="50" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-17" value="+ objectifs: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-15" vertex="1">
+          <mxGeometry y="76" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-18" value="+ durée: 3-4 heures" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oGcL695DofoNEhs4g2Zo-15" vertex="1">
+          <mxGeometry y="102" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oGcL695DofoNEhs4g2Zo-23" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" parent="1" source="oGcL695DofoNEhs4g2Zo-1" target="oGcL695DofoNEhs4g2Zo-15" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="396" y="208" as="sourcePoint" />
+            <mxPoint x="270" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
