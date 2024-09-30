@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.16">
   <diagram name="Page-1" id="TVbX9KgjACldvgUGH_jM">
-    <mxGraphModel dx="2603" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,7 +354,7 @@
             <mxPoint x="1070" y="845.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7whgVW71UNMLmRwCJa-j-59" value="1 - &lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="7whgVW71UNMLmRwCJa-j-59" value="1 - Premiers graphiques avec ggplot2&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="930" y="390" width="130" height="60" as="geometry">
             <mxRectangle y="400" width="110" height="120" as="alternateBounds" />
           </mxGeometry>
@@ -362,7 +362,7 @@
         <mxCell id="7whgVW71UNMLmRwCJa-j-60" value="&lt;div&gt;- vidéo intro&lt;/div&gt;&lt;div&gt;- cours (HTML)&lt;/div&gt;&lt;div&gt;- Exercice&lt;/div&gt;&lt;div&gt;- Corrigés&lt;/div&gt;&lt;div&gt;- Quiz&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="7whgVW71UNMLmRwCJa-j-59" vertex="1">
           <mxGeometry y="40" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7whgVW71UNMLmRwCJa-j-61" value="3 - " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="7whgVW71UNMLmRwCJa-j-61" value="3 -Habillage et fonctions avancées avec ggplot2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1170" y="505.5" width="110" height="60" as="geometry">
             <mxRectangle x="260" y="400" width="130" height="120" as="alternateBounds" />
           </mxGeometry>
@@ -370,15 +370,15 @@
         <mxCell id="7whgVW71UNMLmRwCJa-j-62" value="&lt;div&gt;- vidéo intro&lt;/div&gt;&lt;div&gt;- cours (HTML)&lt;/div&gt;&lt;div&gt;- Exercice&lt;/div&gt;&lt;div&gt;- Corrigés&lt;/div&gt;- Quiz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="7whgVW71UNMLmRwCJa-j-61" vertex="1">
           <mxGeometry y="40" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7whgVW71UNMLmRwCJa-j-63" value="2 - " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="1130" y="390" width="130" height="50" as="geometry">
+        <mxCell id="7whgVW71UNMLmRwCJa-j-63" value="2 -Graphiques avancés avec ggplot2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="1130" y="390" width="130" height="60" as="geometry">
             <mxRectangle x="-40" y="420" width="110" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7whgVW71UNMLmRwCJa-j-64" value="&lt;div&gt;- vidéo intro&lt;/div&gt;&lt;div&gt;- cours (HTML)&lt;/div&gt;&lt;div&gt;- Exercice&lt;/div&gt;&lt;div&gt;- Corrigés&lt;/div&gt;- Quiz" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="7whgVW71UNMLmRwCJa-j-63" vertex="1">
           <mxGeometry y="50" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7whgVW71UNMLmRwCJa-j-65" value="4 - " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=61;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="7whgVW71UNMLmRwCJa-j-65" value="4 -Cartes avec sf et ggplot2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=61;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="1065" y="618" width="110" height="61" as="geometry">
             <mxRectangle x="270" y="350" width="130" height="120" as="alternateBounds" />
           </mxGeometry>
